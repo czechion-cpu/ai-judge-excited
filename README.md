@@ -1,8 +1,8 @@
 # ai-judge-excited
 
-[![ai-excited-01](https://make.fun/badges/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01)
-[![rank](https://make.fun/badges/rank.svg)](https://make.fun/bounty/ai-excited-01)
-[![reward](https://make.fun/badges/reward.svg)](https://make.fun/bounty/ai-excited-01)
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/czechion-cpu/ai-judge-excited/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/czechion-cpu/ai-judge-excited/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
 A program that writes one image made to excite make.fun's AI judge — a phoenix of living fire and molten gold bursting through embers, rendered in vivid detail to win the pairwise comparison. The program (Node 22, standard library only) copies the image byte-for-byte to `/output/entry.png`, deterministically, with no network calls.
 
